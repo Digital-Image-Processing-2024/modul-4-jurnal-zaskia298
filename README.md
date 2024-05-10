@@ -7,7 +7,7 @@
 - Pastikan hasil sesuai dengan **Expected Result** pada ./modul.pdf
 - Overtime tidak menjamin apa yang dirimu kerjakan sesuai dengan ekspetasi. Jadi kerjakan sewajarnya dan jangan dipaksakan...
 
-### Soal Pertama
+### Soal
 
 Perbaikilah kualitas citra dari gambar yang tersedia dengan menggunakan:
 
@@ -25,7 +25,7 @@ Lalu deteksi tepi untuk semua jenis perbaikan tadi dengan operator Sobel, Prewit
 
 > Expected Result
 
-![Contoh hasil gambar pada soal](./assets/exres1_1.png "gambar_exres1_1")
+![Contoh hasil gambar 1 pada soal](./assets/exres1_1.png "gambar_exres1_1")
 ![Contoh hasil gambar 2 pada soal](./assets/exres1_2.png "gambar_exres1_2")
 ![Contoh hasil gambar 3 pada soal](./assets/exres1_3.png "gambar_exres1_3")
 ![Contoh hasil gambar 4 pada soal](./assets/exres1_4.png "gambar_exres1_4")
