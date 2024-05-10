@@ -22,3 +22,10 @@ Perbaikilah kualitas citra dari gambar yang tersedia dengan menggunakan:
 Lalu deteksi tepi untuk semua jenis perbaikan tadi dengan operator Sobel, Prewitt dan Robert pada gambar ./assets/manchester_united.jpeg
 
 ![Contoh gambar pada soal](./assets/manchester_united.jpeg "gambar_manchester_united")
+
+> Expected Result
+
+![Contoh hasil gambar pada soal](./assets/exres1_1.png "gambar_exres1_1")
+![Contoh hasil gambar 2 pada soal](./assets/exres1_2.png "gambar_exres1_2")
+![Contoh hasil gambar 3 pada soal](./assets/exres1_3.png "gambar_exres1_3")
+![Contoh hasil gambar 4 pada soal](./assets/exres1_4.png "gambar_exres1_4")
