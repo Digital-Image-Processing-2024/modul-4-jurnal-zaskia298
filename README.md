@@ -13,6 +13,7 @@ Perbaikilah kualitas citra dari gambar yang tersedia dengan menggunakan:
 
 - Kernel 3x3 berisi 1/9 dengan metode Mean, Median dan Modus
 - Kernel 9x9 dengan berisi 1/81 dengan metode yang sama seperti poin sebelumnya
+- kernel 3x3 untuk melakukan sharpening dan smoothing dengan kernel yang berisi sebagai berikut
 
 > Contoh
 
