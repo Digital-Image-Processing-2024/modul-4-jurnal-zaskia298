@@ -1,1 +1,1 @@
-# jurnal_m4_pcd24_pstiunram
+# Jurnal Modul Deteksi Tepi dan Perbaikan Kualitas Citra
