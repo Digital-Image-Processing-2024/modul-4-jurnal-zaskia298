@@ -6,6 +6,7 @@
 - Gambar terkait sudah tersimpan di folder ./assets
 - Pastikan hasil sesuai dengan **Expected Result** pada ./modul_jurnal.pdf
 - Tidak ada Penambahan waktu deadline
+- Jangan merubah format default pada file ./main.ipynb
 - Overtime tidak menjamin apa yang dirimu kerjakan sesuai dengan ekspetasi. Jadi kerjakan sewajarnya dan jangan dipaksakan...
 
 ### Soal
