@@ -4,7 +4,7 @@
 
 - Jangan merubah struktur folder yang ada
 - Gambar terkait sudah tersimpan di folder ./assets
-- Pastikan hasil sesuai dengan **Expected Result** pada ./modul.pdf
+- Pastikan hasil sesuai dengan **Expected Result** pada ./modul_jurnal.pdf
 - Overtime tidak menjamin apa yang dirimu kerjakan sesuai dengan ekspetasi. Jadi kerjakan sewajarnya dan jangan dipaksakan...
 
 ### Soal
